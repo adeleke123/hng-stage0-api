@@ -6,7 +6,7 @@ const port = process.env.PORT || 3000;
 
 const MY_EMAIL = "bakare1234@gmail.com";         
 const MY_NAME = "Bakare Muideen Adeleke";                   
-const MY_STACK = "Backend";                
+const MY_STACK = "Node.js/Express";                
 
 
 const CAT_FACTS_API_URL = 'https://catfact.ninja/fact';
