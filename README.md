@@ -1,6 +1,6 @@
 ## HNG Stage 0 Dynamic Profile Endpoint
 
-Here is a ready-to-use `README.md` file that covers all the required submission criteria.
+Here is the `README.md` file that covers all the required submission criteria.
 
 ````markdown
 # HNG Backend Stage 0: Dynamic Profile Endpoint
@@ -94,4 +94,6 @@ The dynamic profile data can be accessed via a `GET` request to the following pa
 -----
 
 ```
+## Deployed app
+hng-stage0-api.up.railway.app/me
 ```
