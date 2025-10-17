@@ -96,4 +96,6 @@ The dynamic profile data can be accessed via a `GET` request to the following pa
 
 ## Deployed app
 
-https://hng-stage0-api.up.railway.app/me
+[Link to the app](https://hng-stage0-api.up.railway.app/me)
+
+[Link to the post](https://medium.com/@bakare1234/from-zero-to-endpoint-my-journey-completing-the-hng-stage-0-backend-task-5b5ec5aa0aca)
